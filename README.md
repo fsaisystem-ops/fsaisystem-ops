@@ -1,102 +1,111 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7c3aed,100:00e5ff&height=190&section=header&text=ANNA%20SVETLANOVA&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Engenharia%20de%20Dados%20%7C%20DevSecOps%20%7C%20Python&descAlignY=55&descSize=17" />
+<img width="100%" src="./anna-svetlanova-cyberpunk-banner.png" alt="Anna Svetlanova — Cyberpunk Data Engineering" />
 
-# `> Anna Svetlanova_`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=900&height=70&lines=%3E+ANNA+SVETLANOVA_;ENGENHEIRA+DE+DADOS;10+ANOS+CONSTRUINDO+SISTEMAS+DE+DADOS;DEVSECOPS+%2F%2F+BLUE+TEAM+%2F%2F+RED+TEAM" alt="Apresentação de Anna Svetlanova" />
 
-### Engenheira de Dados ✦
-
-<p>
-  10 anos de experiência construindo pipelines, integrações e soluções
-  que transformam dados em decisões.
-</p>
-
-[![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00e5ff)](https://www.python.org/)
-[![Vue.js](https://img.shields.io/badge/Vue.js-0d1117?style=for-the-badge&logo=vuedotjs&logoColor=42b883)](https://vuejs.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=00e5ff)](https://tailwindcss.com/)
-[![Go](https://img.shields.io/badge/Go-0d1117?style=for-the-badge&logo=go&logoColor=00e5ff)](https://go.dev/)
-[![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0d1117?style=for-the-badge&logo=microsoftazure&logoColor=00e5ff)](https://azure.microsoft.com/)
-[![DevSecOps](https://img.shields.io/badge/DevSecOps-0d1117?style=for-the-badge&logo=securityscorecard&logoColor=ff2bd6)](https://github.com/fsaisystem-ops)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00E5FF)
+![Golang](https://img.shields.io/badge/Golang-0D1117?style=for-the-badge&logo=go&logoColor=FF00A8)
+![Vue.js](https://img.shields.io/badge/Vue.js-0D1117?style=for-the-badge&logo=vuedotjs&logoColor=00E5FF)
+![Tailwind](https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=FF00A8)
+![Azure](https://img.shields.io/badge/Azure-0D1117?style=for-the-badge&logo=microsoftazure&logoColor=00E5FF)
+![DevSecOps](https://img.shields.io/badge/DevSecOps-0D1117?style=for-the-badge&logo=securityscorecard&logoColor=FF00A8)
 
 </div>
 
-## `> data_engineering`
+---
 
-```text
-[ fontes de dados ]
-        ↓
-[ ingestão e validação ]
-        ↓
-[ transformação: ETL / ELT ]
-        ↓
-[ pipelines e microsserviços ]
-        ↓
-[ dados confiáveis para decisão ]
+## `> whoami`
+
+```yaml
+name: Anna Svetlanova
+role: Engenheira de Dados
+experience: 10 anos
+focus: dados confiáveis, sistemas seguros e soluções escaláveis
+status: online
 ```
 
+## `> core_stack`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,go,vue,tailwind,azure,linux,postgres,redis,git,github,bash&theme=dark&perline=12" alt="Stack tecnológica" />
+
+</div>
+
 ```text
-Engenharia de Dados  ██████████  Pipelines, modelagem e qualidade de dados
-DevSecOps            ██████████  Segurança em todo o ciclo de desenvolvimento
-Python Full Stack    █████████░  Back-end, automação e aplicações web
-Vue.js + Tailwind    ████████░░  Interfaces web modernas e responsivas
-Microsserviços       ████████░░  Sistemas distribuídos e integrações escaláveis
-Golang               ████████░░  Serviços de alto desempenho para dados
-Azure / VPS          ████████░░  Infraestrutura, deploy e operação
+data_engineering  :: pipelines • ETL/ELT • modelagem • qualidade • integrações
+python_fullstack  :: APIs • automações • back-end • Vue.js • Tailwind CSS
+microservices     :: serviços distribuídos • escalabilidade • alta performance
+infrastructure    :: Microsoft Azure • VPS • Linux • deploy • observabilidade
+golang            :: processamento e serviços de dados de alto desempenho
 ```
 
 ## `> devsecops_security`
 
-Segurança incorporada em todo o ciclo de desenvolvimento — da arquitetura ao deploy e à operação.
-
 ```text
-[ planejamento ]
-       ↓
-[ desenvolvimento seguro ]
-       ↓
-[ análise de código e dependências ]
-       ↓
-[ CI/CD com controles de segurança ]
-       ↓
-[ monitoramento, resposta e melhoria contínua ]
+security_mode     :: shift-left enabled
+blue_team         :: monitoramento • detecção • resposta • hardening
+red_team          :: simulação de ataques • vulnerabilidades • validação
+secure_by_design  :: segurança em todo o ciclo de desenvolvimento
+data_security     :: proteção de pipelines • acessos • integrações • dados
 ```
 
-| Frente | Foco |
-| --- | --- |
-| `DevSecOps` | Segurança integrada a desenvolvimento, CI/CD e operação |
-| `Blue Team` | Monitoramento, detecção, resposta a incidentes e fortalecimento de defesas |
-| `Red Team` | Simulação de ataques, análise de vulnerabilidades e validação de controles |
-| `Secure by Design` | Arquiteturas, integrações e microsserviços projetados com segurança desde o início |
-| `Data Security` | Proteção de pipelines, acessos, dados sensíveis e integrações |
+<div align="center">
 
-## `> cybersec_cases`
+![Blue Team](https://img.shields.io/badge/BLUE%20TEAM-00E5FF?style=for-the-badge&logo=defender&logoColor=0D1117)
+![Red Team](https://img.shields.io/badge/RED%20TEAM-FF1744?style=for-the-badge&logo=hackaday&logoColor=white)
+![Secure by Design](https://img.shields.io/badge/SECURE%20BY%20DESIGN-7C3AED?style=for-the-badge&logo=owasp&logoColor=white)
+![CI/CD Security](https://img.shields.io/badge/CI%2FCD%20SECURITY-FF00A8?style=for-the-badge&logo=githubactions&logoColor=white)
 
-Projetos e clientes em que atuei com cibersegurança:
+</div>
 
-| Cliente / projeto | Atuação | Resultado |
-| --- | --- | --- |
-| [Apollo CRM / Ademicon](https://github.com/fsaisystem-ops/Relatorio-falha-identificada-Apollo-CRM-Ademicon) | Avaliação de integração e identificação de vulnerabilidade | Falha reportada e corrigida |
+## `> cybersec_case_file`
 
-> Por confidencialidade, são exibidos apenas cases e resultados previamente autorizados.
+<a href="https://github.com/fsaisystem-ops/Relatorio-falha-identificada-Apollo-CRM-Ademicon">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=fsaisystem-ops&repo=Relatorio-falha-identificada-Apollo-CRM-Ademicon&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=FF00A8&text_color=FFFFFF" alt="Case Apollo CRM e Ademicon" />
+</a>
 
-## `> projetos_em_destaque`
+```text
+status :: vulnerabilidade identificada → reportada → corrigida
+scope  :: apenas cases e resultados previamente autorizados
+```
 
-| Projeto | Descrição |
-| --- | --- |
-| [Farol](https://github.com/fsaisystem-ops/farol) | Identificação preventiva de riscos e geração de explicações em português. |
-| [Agente IA para WhatsApp](https://github.com/fsaisystem-ops/langchain-agente-ia-whatsapp) | Agente com LangChain para automatizar conversas e tarefas. |
-| [Gerador de Agentes](https://github.com/fsaisystem-ops/crewAI-agente-gerador-de-agentes) | Estudo com CrewAI para criação de agentes a partir de solicitações. |
-| [CrewAI + WhatsApp](https://github.com/fsaisystem-ops/crewAI-agente-whatsapp) | Assistente para atendimento e vendas com memória persistente e RAG. |
+## `> featured_projects`
+
+<div align="center">
+
+<a href="https://github.com/fsaisystem-ops/farol">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=fsaisystem-ops&repo=farol&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=FF00A8&text_color=FFFFFF" alt="Projeto Farol" />
+</a>
+<a href="https://github.com/fsaisystem-ops/langchain-agente-ia-whatsapp">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=fsaisystem-ops&repo=langchain-agente-ia-whatsapp&hide_border=true&bg_color=0D1117&title_color=FF00A8&icon_color=00E5FF&text_color=FFFFFF" alt="Agente IA para WhatsApp" />
+</a>
+
+<a href="https://github.com/fsaisystem-ops/crewAI-agente-gerador-de-agentes">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=fsaisystem-ops&repo=crewAI-agente-gerador-de-agentes&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=00E5FF&text_color=FFFFFF" alt="Gerador de agentes" />
+</a>
+<a href="https://github.com/fsaisystem-ops/crewAI-agente-whatsapp">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=fsaisystem-ops&repo=crewAI-agente-whatsapp&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=FF00A8&text_color=FFFFFF" alt="CrewAI para WhatsApp" />
+</a>
+
+</div>
 
 ## `> github_activity`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=fsaisystem-ops&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=c084fc&text_color=ffffff&ring_color=ff2bd6" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=fsaisystem-ops&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=FF00A8&text_color=FFFFFF&ring_color=7C3AED" alt="Estatísticas do GitHub" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsaisystem-ops&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF00A8&text_color=FFFFFF" alt="Linguagens mais usadas" />
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=fsaisystem-ops&bg_color=0D1117&color=00E5FF&line=FF00A8&point=FFFFFF&area=true&area_color=7C3AED&hide_border=true" alt="Gráfico de atividade" />
 
 </div>
 
+### `// dados confiáveis. sistemas seguros. decisões melhores.`
+
 <div align="center">
 
-### `// dados confiáveis. sistemas seguros. decisões melhores.`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00A8,50:7C3AED,100:00E5FF&height=100&section=footer" width="100%" />
 
 </div>
