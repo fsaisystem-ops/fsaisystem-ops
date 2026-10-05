@@ -55,26 +55,6 @@
   <img src="./clients/red-emblem.png" width="120" alt="Cliente">
 </p>
 
-## `> featured_projects`
-
-<div align="center">
-
-<a href="https://github.com/fsaisystem-ops/farol">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=fsaisystem-ops&repo=farol&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=FF00A8&text_color=FFFFFF" alt="Projeto Farol" />
-</a>
-<a href="https://github.com/fsaisystem-ops/langchain-agente-ia-whatsapp">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=fsaisystem-ops&repo=langchain-agente-ia-whatsapp&hide_border=true&bg_color=0D1117&title_color=FF00A8&icon_color=00E5FF&text_color=FFFFFF" alt="Agente IA para WhatsApp" />
-</a>
-
-<a href="https://github.com/fsaisystem-ops/crewAI-agente-gerador-de-agentes">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=fsaisystem-ops&repo=crewAI-agente-gerador-de-agentes&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=00E5FF&text_color=FFFFFF" alt="Gerador de agentes" />
-</a>
-<a href="https://github.com/fsaisystem-ops/crewAI-agente-whatsapp">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=fsaisystem-ops&repo=crewAI-agente-whatsapp&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=FF00A8&text_color=FFFFFF" alt="CrewAI para WhatsApp" />
-</a>
-
-</div>
-
 ## `> github_activity`
 
 <div align="center">
