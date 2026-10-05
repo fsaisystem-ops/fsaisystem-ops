@@ -82,11 +82,7 @@
 <img height="175" src="https://github-readme-stats.vercel.app/api?username=fsaisystem-ops&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=FF00A8&text_color=FFFFFF&ring_color=7C3AED" alt="Estatísticas do GitHub" />
 <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsaisystem-ops&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF00A8&text_color=FFFFFF" alt="Linguagens mais usadas" />
 
-<img
-  width="98%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fsaisystem-ops&theme=tokyonight"
-  alt="GitHub activity"
-/>
+<img width="98%" src="./github-activity-cyberpunk.svg" alt="Matriz cyberpunk de contribuições no GitHub" />
 </div>
 
 ### `// dados confiáveis. sistemas seguros. decisões melhores.`
