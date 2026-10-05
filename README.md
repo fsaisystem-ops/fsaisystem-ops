@@ -31,55 +31,29 @@
 
 ## `> selected_clients`
 
-## `> selected_clients`
+<p align="center">
+  <img src="./clients/atlas-agro.png" width="120" alt="Atlas Agro">
+  &nbsp;&nbsp;&nbsp;
+  <img src="./clients/bitfinancas.png" width="120" alt="BitFinanças">
+  &nbsp;&nbsp;&nbsp;
+  <img src="./clients/plan.png" width="120" alt="Plan">
+  &nbsp;&nbsp;&nbsp;
+  <img src="./clients/hub-arenas.png" width="120" alt="Hub Arenas">
+  &nbsp;&nbsp;&nbsp;
+  <img src="./clients/cconet.png" width="120" alt="CCONET">
+</p>
 
-<table>
-  <tr>
-    <td align="center" width="20%">
-      <img src="./clients/atlas-agro.png" width="120" alt="Atlas Agro"><br>
-      <sub><b>Atlas Agro</b></sub>
-    </td>
-    <td align="center" width="20%">
-      <img src="./clients/bitfinancas.png" width="120" alt="BitFinanças"><br>
-      <sub><b>BitFinanças</b></sub>
-    </td>
-    <td align="center" width="20%">
-      <img src="./clients/plan.png" width="120" alt="Plan"><br>
-      <sub><b>Plan</b></sub>
-    </td>
-    <td align="center" width="20%">
-      <img src="./clients/hub-arenas.png" width="120" alt="Hub Arenas"><br>
-      <sub><b>Hub Arenas</b></sub>
-    </td>
-    <td align="center" width="20%">
-      <img src="./clients/cconet.png" width="120" alt="CCONET"><br>
-      <sub><b>CCONET</b></sub>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="20%">
-      <img src="./clients/infortronics.png" width="120" alt="Infortronics"><br>
-      <sub><b>Infortronics</b></sub>
-    </td>
-    <td align="center" width="20%">
-      <img src="./clients/mobilesim.png" width="120" alt="MobileSim"><br>
-      <sub><b>MobileSim</b></sub>
-    </td>
-    <td align="center" width="20%">
-      <img src="./clients/ademicon.png" width="120" alt="Ademicon"><br>
-      <sub><b>Ademicon</b></sub>
-    </td>
-    <td align="center" width="20%">
-      <img src="./clients/avcb-certo.png" width="120" alt="AVCB Certo"><br>
-      <sub><b>AVCB Certo</b></sub>
-    </td>
-    <td align="center" width="20%">
-      <img src="./clients/red-emblem.png" width="120" alt="Cliente"><br>
-      <sub><b>Cliente</b></sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./clients/infortronics.png" width="120" alt="Infortronics">
+  &nbsp;&nbsp;&nbsp;
+  <img src="./clients/mobilesim.png" width="120" alt="MobileSim">
+  &nbsp;&nbsp;&nbsp;
+  <img src="./clients/ademicon.png" width="120" alt="Ademicon">
+  &nbsp;&nbsp;&nbsp;
+  <img src="./clients/avcb-certo.png" width="120" alt="AVCB Certo">
+  &nbsp;&nbsp;&nbsp;
+  <img src="./clients/red-emblem.png" width="120" alt="Cliente">
+</p>
 
 ## `> featured_projects`
 
