@@ -10,14 +10,7 @@
 
 ## `> whoami`
 
-<pre>
-name: Anna Svetlanova
-role: Engenheira de Dados & Software
-position: COO
-experience: 12 anos
-focus: dados confiáveis, sistemas seguros e soluções escaláveis
-status: online
-</pre>
+<img width="100%" src="./profile-terminal.svg" alt="Perfil profissional de Anna Svetlanova" />
 
 ## `> core_stack`
 
