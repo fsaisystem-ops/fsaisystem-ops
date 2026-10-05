@@ -2,7 +2,7 @@
 
 <img width="100%" src="./anna-svetlanova-cyberpunk-banner.png" alt="Anna Svetlanova — Cyberpunk Data Engineering" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=25&amp;duration=2500&amp;pause=700&amp;color=00E5FF&amp;center=true&amp;vCenter=true&amp;width=900&amp;height=70&amp;lines=%3E+ANNA+SVETLANOVA_;ENGENHEIRA+DE+DADOS+%26+SOFTWARE;COO;12+ANOS+CONSTRUINDO+SISTEMAS+ESCAL%C3%81VEIS" alt="Apresentação de Anna Svetlanova" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&amp;weight=800&amp;size=27&amp;duration=1800&amp;pause=650&amp;color=FF2BD6&amp;center=true&amp;vCenter=true&amp;width=1000&amp;height=75&amp;lines=%3E+ANNA+SVETLANOVA_;ENGENHEIRA+DE+DADOS+%26+SOFTWARE;COO+%2F%2F+TECH+LEAD;12+ANOS+CONSTRUINDO+SISTEMAS+ESCAL%C3%81VEIS" alt="Apresentação de Anna Svetlanova" />
 
 </div>
 
