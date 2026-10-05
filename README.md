@@ -10,13 +10,7 @@
 
 ## `> whoami`
 
-```yaml
-name: Anna Svetlanova
-role: Engenheira de Dados
-experience: 10 anos
-focus: dados confiáveis, sistemas seguros e soluções escaláveis
-status: online
-```
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&amp;weight=700&amp;size=18&amp;duration=1800&amp;pause=400&amp;color=FF2BD6&amp;multiline=true&amp;repeat=true&amp;width=1000&amp;height=210&amp;lines=name%3A+Anna+Svetlanova;role%3A+Engenheira+de+Dados+%26+Software;position%3A+COO;experience%3A+12+anos;focus%3A+dados+confi%C3%A1veis%2C+sistemas+seguros+e+solu%C3%A7%C3%B5es+escal%C3%A1veis;status%3A+online" alt="Perfil profissional de Anna Svetlanova" />
 
 ## `> core_stack`
 
