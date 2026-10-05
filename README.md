@@ -82,8 +82,11 @@
 <img height="175" src="https://github-readme-stats.vercel.app/api?username=fsaisystem-ops&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=FF00A8&text_color=FFFFFF&ring_color=7C3AED" alt="Estatísticas do GitHub" />
 <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsaisystem-ops&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF00A8&text_color=FFFFFF" alt="Linguagens mais usadas" />
 
-![Gráfico de atividade](https://github-readme-activity-graph.vercel.app/graph?username=fsaisystem-ops&bg_color=0D1117&color=00E5FF&line=FF00A8&point=FFFFFF&area=true&area_color=7C3AED&hide_border=true)
-
+<img
+  width="98%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fsaisystem-ops&theme=tokyonight"
+  alt="GitHub activity"
+/>
 </div>
 
 ### `// dados confiáveis. sistemas seguros. decisões melhores.`
