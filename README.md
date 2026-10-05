@@ -31,16 +31,55 @@
 
 ## `> selected_clients`
 
-<img src="./clients/atlas-agro.png" height="70" alt="Atlas Agro" />
-<img src="./clients/bitfinancas.png" height="70" alt="BitFinanças" />
-<img src="./clients/plan.png" height="70" alt="Plan" />
-<img src="./clients/hub-arenas.png" height="70" alt="Hub Arenas" />
-<img src="./clients/cconet.png" height="70" alt="CCONET" />
-<img src="./clients/infortronics.png" height="70" alt="Infortronics" />
-<img src="./clients/mobilesim.png" height="70" alt="MobileSim" />
-<img src="./clients/ademicon.png" height="70" alt="Ademicon" />
-<img src="./clients/avcb-certo.png" height="70" alt="AVCB Certo" />
-<img src="./clients/red-emblem.png" height="70" alt="Cliente" />
+## `> selected_clients`
+
+<table>
+  <tr>
+    <td align="center" width="20%">
+      <img src="./clients/atlas-agro.png" width="120" alt="Atlas Agro"><br>
+      <sub><b>Atlas Agro</b></sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="./clients/bitfinancas.png" width="120" alt="BitFinanças"><br>
+      <sub><b>BitFinanças</b></sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="./clients/plan.png" width="120" alt="Plan"><br>
+      <sub><b>Plan</b></sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="./clients/hub-arenas.png" width="120" alt="Hub Arenas"><br>
+      <sub><b>Hub Arenas</b></sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="./clients/cconet.png" width="120" alt="CCONET"><br>
+      <sub><b>CCONET</b></sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="20%">
+      <img src="./clients/infortronics.png" width="120" alt="Infortronics"><br>
+      <sub><b>Infortronics</b></sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="./clients/mobilesim.png" width="120" alt="MobileSim"><br>
+      <sub><b>MobileSim</b></sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="./clients/ademicon.png" width="120" alt="Ademicon"><br>
+      <sub><b>Ademicon</b></sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="./clients/avcb-certo.png" width="120" alt="AVCB Certo"><br>
+      <sub><b>AVCB Certo</b></sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="./clients/red-emblem.png" width="120" alt="Cliente"><br>
+      <sub><b>Cliente</b></sub>
+    </td>
+  </tr>
+</table>
 
 ## `> featured_projects`
 
