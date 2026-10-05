@@ -29,22 +29,20 @@
 
 </div>
 
-## `> devsecops_security`
+## `> clients`
 
-<a href="./devsecops-security.svg">
-  <img width="100%" src="./devsecops-security.svg" alt="DevSecOps Security — Blue Team, Red Team e segurança com inteligência artificial" />
-</a>
+## `> selected_clients`
 
-## `> cybersec_case_file`
-
-<a href="https://github.com/fsaisystem-ops/Relatorio-falha-identificada-Apollo-CRM-Ademicon">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=fsaisystem-ops&repo=Relatorio-falha-identificada-Apollo-CRM-Ademicon&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=FF00A8&text_color=FFFFFF" alt="Case Apollo CRM e Ademicon" />
-</a>
-
-```text
-status :: vulnerabilidade identificada → reportada → corrigida
-scope  :: apenas cases e resultados previamente autorizados
-```
+<img src="./clients/atlas-agro.png" height="70" alt="Atlas Agro" />
+<img src="./clients/bitfinancas.png" height="70" alt="BitFinanças" />
+<img src="./clients/plan.png" height="70" alt="Plan" />
+<img src="./clients/hub-arenas.png" height="70" alt="Hub Arenas" />
+<img src="./clients/cconet.png" height="70" alt="CCONET" />
+<img src="./clients/infortronics.png" height="70" alt="Infortronics" />
+<img src="./clients/mobilesim.png" height="70" alt="MobileSim" />
+<img src="./clients/ademicon.png" height="70" alt="Ademicon" />
+<img src="./clients/avcb-certo.png" height="70" alt="AVCB Certo" />
+<img src="./clients/red-emblem.png" height="70" alt="Cliente" />
 
 ## `> featured_projects`
 
