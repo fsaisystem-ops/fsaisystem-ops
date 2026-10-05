@@ -10,7 +10,14 @@
 
 ## `> whoami`
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&amp;weight=700&amp;size=18&amp;duration=1800&amp;pause=400&amp;color=FF2BD6&amp;multiline=true&amp;repeat=true&amp;width=1000&amp;height=210&amp;lines=name%3A+Anna+Svetlanova;role%3A+Engenheira+de+Dados+%26+Software;position%3A+COO;experience%3A+12+anos;focus%3A+dados+confi%C3%A1veis%2C+sistemas+seguros+e+solu%C3%A7%C3%B5es+escal%C3%A1veis;status%3A+online" alt="Perfil profissional de Anna Svetlanova" />
+<pre>
+name: Anna Svetlanova
+role: Engenheira de Dados & Software
+position: COO
+experience: 12 anos
+focus: dados confiáveis, sistemas seguros e soluções escaláveis
+status: online
+</pre>
 
 ## `> core_stack`
 
@@ -28,14 +35,6 @@
 <img src="https://img.shields.io/badge/Microsserviços-0D1117?style=for-the-badge&logoColor=FF2BD6" alt="Microsserviços" />
 
 </div>
-
-```text
-data_engineering  :: pipelines • ETL/ELT • modelagem • qualidade • integrações
-python_fullstack  :: APIs • automações • back-end • Vue.js • Tailwind CSS
-microservices     :: serviços distribuídos • escalabilidade • alta performance
-infrastructure    :: Microsoft Azure • VPS • Linux • deploy • observabilidade
-golang            :: processamento e serviços de dados de alto desempenho
-```
 
 ## `> devsecops_security`
 
