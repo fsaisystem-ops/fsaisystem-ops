@@ -85,8 +85,6 @@
 <img width="98%" src="./github-activity-cyberpunk.svg" alt="Matriz cyberpunk de contribuições no GitHub" />
 </div>
 
-### `// dados confiáveis. sistemas seguros. decisões melhores.`
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00A8,50:7C3AED,100:00E5FF&height=100&section=footer" width="100%" />
