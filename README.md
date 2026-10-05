@@ -31,22 +31,9 @@
 
 ## `> devsecops_security`
 
-```text
-security_mode     :: shift-left enabled
-blue_team         :: monitoramento • detecção • resposta • hardening
-red_team          :: simulação de ataques • vulnerabilidades • validação
-secure_by_design  :: segurança em todo o ciclo de desenvolvimento
-data_security     :: proteção de pipelines • acessos • integrações • dados
-```
-
-<div align="center">
-
-![Blue Team](https://img.shields.io/badge/BLUE%20TEAM-00E5FF?style=for-the-badge&logo=defender&logoColor=0D1117)
-![Red Team](https://img.shields.io/badge/RED%20TEAM-FF1744?style=for-the-badge&logo=hackaday&logoColor=white)
-![Secure by Design](https://img.shields.io/badge/SECURE%20BY%20DESIGN-7C3AED?style=for-the-badge&logo=owasp&logoColor=white)
-![CI/CD Security](https://img.shields.io/badge/CI%2FCD%20SECURITY-FF00A8?style=for-the-badge&logo=githubactions&logoColor=white)
-
-</div>
+<a href="./devsecops-security.svg">
+  <img width="100%" src="./devsecops-security.svg" alt="DevSecOps Security — Blue Team, Red Team e segurança com inteligência artificial" />
+</a>
 
 ## `> cybersec_case_file`
 
