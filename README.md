@@ -29,8 +29,6 @@
 
 </div>
 
-## `> clients`
-
 ## `> selected_clients`
 
 <img src="./clients/atlas-agro.png" height="70" alt="Atlas Agro" />
