@@ -1,0 +1,69 @@
+<svg width="1000" height="360" viewBox="0 0 1000 360" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="frame" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#00E5FF"/>
+      <stop offset="48%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#FF2BD6"/>
+    </linearGradient>
+    <linearGradient id="scan" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00E5FF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#00E5FF" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#FF2BD6" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#00E5FF" stroke-opacity="0.055"/>
+    </pattern>
+    <filter id="cyanGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="pinkGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1000" height="360" rx="18" fill="#0D1117"/>
+  <rect width="1000" height="360" rx="18" fill="url(#grid)"/>
+  <rect x="3" y="3" width="994" height="354" rx="16" fill="none" stroke="url(#frame)" stroke-width="3"/>
+  <rect x="24" y="57" width="952" height="2" fill="url(#scan)"/>
+
+  <circle cx="32" cy="28" r="7" fill="#FF2BD6"/>
+  <circle cx="56" cy="28" r="7" fill="#FFD600"/>
+  <circle cx="80" cy="28" r="7" fill="#39FF14"/>
+
+  <text x="110" y="35" font-family="Orbitron, 'Courier New', monospace" font-size="17" font-weight="700" fill="#00E5FF" filter="url(#cyanGlow)">&gt; DEVSECOPS_SECURITY // ACTIVE</text>
+  <text x="952" y="35" text-anchor="end" font-family="'Courier New', monospace" font-size="13" fill="#39FF14">● SECURE CHANNEL</text>
+
+  <g font-family="Orbitron, 'Courier New', monospace" font-size="17">
+    <rect x="28" y="76" width="944" height="38" rx="8" fill="#00E5FF" fill-opacity="0.055" stroke="#00E5FF" stroke-opacity="0.20"/>
+    <text x="48" y="101" fill="#00E5FF">security_mode</text>
+    <text x="252" y="101" fill="#7C3AED">::</text>
+    <text x="292" y="101" fill="#FFFFFF">shift-left enabled</text>
+
+    <rect x="28" y="121" width="944" height="38" rx="8" fill="#00E5FF" fill-opacity="0.045" stroke="#00E5FF" stroke-opacity="0.18"/>
+    <text x="48" y="146" fill="#00E5FF" filter="url(#cyanGlow)">blue_team</text>
+    <text x="252" y="146" fill="#7C3AED">::</text>
+    <text x="292" y="146" fill="#FFFFFF">monitoramento • detecção • resposta • hardening</text>
+
+    <rect x="28" y="166" width="944" height="38" rx="8" fill="#FF1744" fill-opacity="0.045" stroke="#FF1744" stroke-opacity="0.22"/>
+    <text x="48" y="191" fill="#FF375F" filter="url(#pinkGlow)">red_team</text>
+    <text x="252" y="191" fill="#7C3AED">::</text>
+    <text x="292" y="191" fill="#FFFFFF">simulação de ataques • vulnerabilidades • validação</text>
+
+    <rect x="28" y="211" width="944" height="38" rx="8" fill="#7C3AED" fill-opacity="0.055" stroke="#A855F7" stroke-opacity="0.22"/>
+    <text x="48" y="236" fill="#A855F7">secure_by_design</text>
+    <text x="252" y="236" fill="#7C3AED">::</text>
+    <text x="292" y="236" fill="#FFFFFF">segurança em todo o ciclo de desenvolvimento</text>
+
+    <rect x="28" y="256" width="944" height="38" rx="8" fill="#39FF14" fill-opacity="0.035" stroke="#39FF14" stroke-opacity="0.18"/>
+    <text x="48" y="281" fill="#39FF14">data_security</text>
+    <text x="252" y="281" fill="#7C3AED">::</text>
+    <text x="292" y="281" fill="#FFFFFF">proteção de pipelines • acessos • integrações • dados</text>
+
+    <rect x="28" y="301" width="944" height="38" rx="8" fill="#FF2BD6" fill-opacity="0.065" stroke="#FF2BD6" stroke-opacity="0.35"/>
+    <text x="48" y="326" fill="#FF2BD6" filter="url(#pinkGlow)">ai_security</text>
+    <text x="252" y="326" fill="#7C3AED">::</text>
+    <text x="292" y="326" fill="#FFFFFF">soluções de segurança com inteligência artificial</text>
+  </g>
+</svg>
