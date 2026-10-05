@@ -18,12 +18,14 @@
 
 <img src="https://skillicons.dev/icons?i=python,django,fastapi,go,vue,tailwind,azure,linux,postgres,mongodb,redis,git,github,bash&theme=dark&perline=7" alt="Stack tecnológica" />
 
-<br><br>
+</div>
+
+<div align="center">
 
 <img src="https://img.shields.io/badge/Apache_Airflow-0D1117?style=for-the-badge&logo=apacheairflow&logoColor=00E5FF" alt="Apache Airflow" />
 <img src="https://img.shields.io/badge/Databricks-0D1117?style=for-the-badge&logo=databricks&logoColor=FF2BD6" alt="Databricks" />
 <img src="https://img.shields.io/badge/Neo4j-0D1117?style=for-the-badge&logo=neo4j&logoColor=00E5FF" alt="Neo4j" />
-<img src="https://img.shields.io/badge/MICROSSERVIÇOS-0D1117?style=for-the-badge&logoColor=FF2BD6" alt="Microsserviços" />
+<img src="https://img.shields.io/badge/Microsserviços-0D1117?style=for-the-badge&logoColor=FF2BD6" alt="Microsserviços" />
 
 </div>
 
