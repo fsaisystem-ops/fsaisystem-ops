@@ -2,14 +2,7 @@
 
 <img width="100%" src="./anna-svetlanova-cyberpunk-banner.png" alt="Anna Svetlanova — Cyberpunk Data Engineering" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=900&height=70&lines=%3E+ANNA+SVETLANOVA_;ENGENHEIRA+DE+DADOS;10+ANOS+CONSTRUINDO+SISTEMAS+DE+DADOS;DEVSECOPS+%2F%2F+BLUE+TEAM+%2F%2F+RED+TEAM" alt="Apresentação de Anna Svetlanova" />
-
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00E5FF)
-![Golang](https://img.shields.io/badge/Golang-0D1117?style=for-the-badge&logo=go&logoColor=FF00A8)
-![Vue.js](https://img.shields.io/badge/Vue.js-0D1117?style=for-the-badge&logo=vuedotjs&logoColor=00E5FF)
-![Tailwind](https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=FF00A8)
-![Azure](https://img.shields.io/badge/Azure-0D1117?style=for-the-badge&logo=microsoftazure&logoColor=00E5FF)
-![DevSecOps](https://img.shields.io/badge/DevSecOps-0D1117?style=for-the-badge&logo=securityscorecard&logoColor=FF00A8)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=900&height=70&lines=%3E+ANNA+SVETLANOVA_;ENGENHEIRA+DE+DADOS;12+ANOS+CONSTRUINDO+SISTEMAS+ESCALAVEIS;" alt="Apresentação de Anna Svetlanova" />
 
 </div>
 
